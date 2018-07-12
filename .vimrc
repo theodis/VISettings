@@ -26,7 +26,7 @@ set tabstop=2
 set shiftwidth=2
 
 "Theme
-colorscheme darkblue
+"colorscheme darkblue
 
 "Auto remove trailing whitespace
 autocmd BufWritePre * %s/\s\+$//e
